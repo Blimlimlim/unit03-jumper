@@ -1,0 +1,15 @@
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\unit03-jumper.csproj.AssemblyReference.cache
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\unit03-jumper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\unit03-jumper.AssemblyInfoInputs.cache
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\unit03-jumper.AssemblyInfo.cs
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\unit03-jumper.csproj.CoreCompileInputs.cache
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\bin\Debug\net6.0\unit03-jumper.exe
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\bin\Debug\net6.0\unit03-jumper.deps.json
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\bin\Debug\net6.0\unit03-jumper.runtimeconfig.json
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\bin\Debug\net6.0\unit03-jumper.dll
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\bin\Debug\net6.0\unit03-jumper.pdb
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\unit03-jumper.dll
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\refint\unit03-jumper.dll
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\unit03-jumper.pdb
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\unit03-jumper.genruntimeconfig.cache
+C:\Users\stead\OneDrive\Desktop\Current_Classes\Spring_2022\Programming_with_Classes\Repositories\cse210-student-developer-csharp\unit03-jumper\obj\Debug\net6.0\ref\unit03-jumper.dll

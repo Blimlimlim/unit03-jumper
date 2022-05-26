@@ -1,0 +1,20 @@
+while isPlaying
+    showHint()
+    showJumper()
+    takGuess()
+    checkGuess()
+    checkParachute()
+
+
+
+FirstStep()
+    SelectWord()
+
+while isPlaying
+    getInputs()
+
+    doUpdates()
+        ReplaceWordspace(guess)
+
+    doOutputs()
+
